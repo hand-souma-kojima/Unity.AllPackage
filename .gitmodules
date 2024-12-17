@@ -1,0 +1,24 @@
+[submodule "Unity.UI.BaseUI"]
+	path = Unity.UI.BaseUI
+	url = https://github.com/hand-souma-kojima/Unity.UI.BaseUI.git
+[submodule "Unity.UI.ListScroll"]
+	path = Unity.UI.ListScroll
+	url = https://github.com/hand-souma-kojima/Unity.UI.ListScroll.git
+[submodule "Unity.System.AssetLoader"]
+	path = Unity.System.AssetLoader
+	url = https://github.com/hand-souma-kojima/Unity.System.AssetLoader.git
+[submodule "Unity.System.SceneManager"]
+	path = Unity.System.SceneManager
+	url = https://github.com/hand-souma-kojima/Unity.System.SceneManager.git
+[submodule "Unity.Editor.EditorExtension"]
+	path = Unity.Editor.EditorExtension
+	url = https://github.com/hand-souma-kojima/Unity.Editor.EditorExtension.git
+[submodule "Unity.System.UnityCsExtension"]
+	path = Unity.System.UnityCsExtension
+	url = https://github.com/hand-souma-kojima/Unity.System.UnityCsExtension.git
+[submodule "Unity.UI.Tween"]
+	path = Unity.UI.Tween
+	url = https://github.com/hand-souma-kojima/Unity.UI.Tween.git
+[submodule "Unity.System.Animator"]
+	path = Unity.System.Animator
+	url = https://github.com/hand-souma-kojima/Unity.System.Animator.git
